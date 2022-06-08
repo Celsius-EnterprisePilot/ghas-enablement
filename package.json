@@ -58,7 +58,7 @@
     "@octokit/types": "^6.34.0",
     "debug": "^4.3.3",
     "delay": "^5.0.0",
-    "dotenv": "^16.0.0",
+    "dotenv": "^16.0.1",
     "randomstring": "^1.2.2"
   }
 }
